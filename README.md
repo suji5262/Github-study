@@ -5,7 +5,8 @@
 [API url](https://github.com/KDT-HotSix/Github-study/wiki/API)
  
 <br>
-### 기능 <br>
+
+# 기능 <br>
 1. 로그인<br>
 2. 회원가입<br>
 3. 게시판 - 생성<br>
